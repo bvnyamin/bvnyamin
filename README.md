@@ -28,15 +28,9 @@
 
 ---
 
-## `$ whoami`
-
 <div align="center">
-  <img src="assets/banner-dark.svg" width="960" alt="Cabecera de Nicolás Villagrán con consola, perfil Full Stack y paisaje de montaña en tonos oscuros">
+  <img src="assets/banner-dark.svg" width="960" alt="Cabecera de Nicolás Villagrán con consola y paisaje de montaña en tonos grafito y verde azulado">
 </div>
-
-Desarrollador Full Stack formado en **Ingeniería Informática en la UTEM**, con experiencia en Python, Flask, bases de datos, Linux y geotecnologías. En **Enel X** contribuí de punta a punta a un sistema de incidencias georreferenciadas: análisis de requerimientos, desarrollo y presentación a gerencia.
-
-Mi proyecto de título integró **RAG y NL2SQL** para responder preguntas en lenguaje natural sobre datos de forma segura. Me enfoco en Backend, Cloud e inteligencia artificial aplicada a sistemas empresariales.
 
 ## `$ cat tech-stack.yaml`
 
