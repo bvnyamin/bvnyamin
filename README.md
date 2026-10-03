@@ -2,8 +2,8 @@
 
 <a href="https://github.com/bvnyamin">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-console-dark.svg">
-    <img src="assets/profile-console-dark.svg" width="960" alt="Perfil de Nicolás Villagrán en una consola YAML con visualización geoespacial">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-console-dark-v2.svg">
+    <img src="assets/profile-console-dark-v2.svg" width="960" alt="Perfil de Nicolás Villagrán en una consola de código y YAML con estética oscura">
   </picture>
 </a>
 
@@ -29,7 +29,7 @@
 ---
 
 <div align="center">
-  <img src="assets/banner-dark.svg" width="960" alt="Cabecera de Nicolás Villagrán con consola y paisaje de montaña en tonos grafito y verde azulado">
+  <img src="assets/banner-dark-v2.svg" width="960" alt="Cabecera de Nicolás Villagrán con consola y paisaje en tonos grafito y verde azulado">
 </div>
 
 ## `$ cat tech-stack.yaml`
