@@ -97,11 +97,3 @@ Desarrollador Full Stack formado en **Ingeniería Informática en la UTEM**. Me 
 </div>
 
 <div align="center"><sub>Distribución relativa de código por lenguaje en repositorios públicos; no representa niveles de dominio. Se puede regenerar con <code>python scripts/generate_language_radar.py</code>.</sub></div>
-
----
-
-<div align="center">
-
-<sub>Hecho en Santiago, Chile · <a href="https://github.com/bvnyamin">@bvnyamin</a></sub>
-
-</div>
