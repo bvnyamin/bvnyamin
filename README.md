@@ -3,7 +3,6 @@
 <a href="https://github.com/bvnyamin">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/profile-console-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/profile-console-light.svg">
     <img src="assets/profile-console-dark.svg" width="960" alt="Perfil de Nicolás Villagrán en una consola YAML con visualización geoespacial">
   </picture>
 </a>
@@ -30,6 +29,10 @@
 ---
 
 ## `$ whoami`
+
+<div align="center">
+  <img src="assets/banner-dark.svg" width="960" alt="Cabecera de Nicolás Villagrán con consola, perfil Full Stack y paisaje de montaña en tonos oscuros">
+</div>
 
 Desarrollador Full Stack formado en **Ingeniería Informática en la UTEM**, con experiencia en Python, Flask, bases de datos, Linux y geotecnologías. En **Enel X** contribuí de punta a punta a un sistema de incidencias georreferenciadas: análisis de requerimientos, desarrollo y presentación a gerencia.
 
