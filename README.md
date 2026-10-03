@@ -27,7 +27,11 @@
 
 ## `$ whoami`
 
-Desarrollador Full Stack formado en **Ingeniería Informática en la UTEM**. Me gusta construir aplicaciones que conectan software, datos y mapas, y explorar cómo la inteligencia artificial puede responder preguntas con información verificable.
+Desarrollador Full Stack formado en **Ingeniería Informática en la UTEM**, con experiencia en aplicaciones web, bases de datos e infraestructura Linux. He trabajado con Python, Flask, JavaScript y tecnologías geoespaciales como QGIS Server.
+
+En **Enel X** participé en el desarrollo y mejora de un sistema de gestión de incidencias georreferenciadas, desde el análisis de requerimientos hasta la implementación de funcionalidades y la presentación del producto a gerencia.
+
+Mi proyecto de título fue un copiloto conversacional basado en **RAG y NL2SQL** para responder consultas en lenguaje natural sobre bases de datos de forma segura. Me interesa seguir creciendo en Backend, Full Stack, Cloud e inteligencia artificial aplicada a sistemas empresariales.
 
 ## `$ cat tech-stack.yaml`
 
