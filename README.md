@@ -27,11 +27,9 @@
 
 ## `$ whoami`
 
-Desarrollador Full Stack formado en **Ingeniería Informática en la UTEM**, con experiencia en aplicaciones web, bases de datos e infraestructura Linux. He trabajado con Python, Flask, JavaScript y tecnologías geoespaciales como QGIS Server.
+Desarrollador Full Stack formado en **Ingeniería Informática en la UTEM**, con experiencia en Python, Flask, bases de datos, Linux y geotecnologías. En **Enel X** contribuí de punta a punta a un sistema de incidencias georreferenciadas: análisis de requerimientos, desarrollo y presentación a gerencia.
 
-En **Enel X** participé en el desarrollo y mejora de un sistema de gestión de incidencias georreferenciadas, desde el análisis de requerimientos hasta la implementación de funcionalidades y la presentación del producto a gerencia.
-
-Mi proyecto de título fue un copiloto conversacional basado en **RAG y NL2SQL** para responder consultas en lenguaje natural sobre bases de datos de forma segura. Me interesa seguir creciendo en Backend, Full Stack, Cloud e inteligencia artificial aplicada a sistemas empresariales.
+Mi proyecto de título integró **RAG y NL2SQL** para responder preguntas en lenguaje natural sobre datos de forma segura. Me enfoco en Backend, Cloud e inteligencia artificial aplicada a sistemas empresariales.
 
 ## `$ cat tech-stack.yaml`
 
@@ -50,9 +48,9 @@ Mi proyecto de título fue un copiloto conversacional basado en **RAG y NL2SQL**
         <sub><code>Python · JavaScript · PHP · C++</code></sub>
       </td>
       <td width="50%" valign="top"><code>├─ ⚙ web_frameworks:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,flask,typescript&amp;perline=4" alt="React, Next.js, Flask y TypeScript"><br>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,flask,django,typescript&amp;perline=5" alt="React, Next.js, Flask, Django y TypeScript"><br>
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit"><br>
-        <sub><code>React · Next.js · Flask · Streamlit · TypeScript</code></sub>
+        <sub><code>React · Next.js · Flask · Django · Streamlit · TypeScript</code></sub>
       </td>
     </tr>
     <tr>
