@@ -37,26 +37,56 @@ Mi proyecto de título fue un copiloto conversacional basado en **RAG y NL2SQL**
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%"><strong>Lenguajes</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=python,js,php,cpp" alt="Python, JavaScript, PHP y C++">
-    </td>
-    <td align="center" width="50%"><strong>Frontend</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,html,css" alt="React, Next.js, TypeScript, HTML y CSS">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Backend y datos</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=flask,streamlit,postgres,mysql" alt="Flask, Streamlit, PostgreSQL y MySQL">
-    </td>
-    <td align="center"><strong>Herramientas y geoespacial</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=docker,linux,git" alt="Docker, Linux y Git"><br>
-      <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostGIS">
-      <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&amp;logo=qgis&amp;logoColor=white" alt="QGIS">
-      <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&amp;logo=leaflet&amp;logoColor=white" alt="Leaflet">
-    </td>
-  </tr>
+<table border="1" cellpadding="14" bgcolor="#17171c">
+  <thead>
+    <tr>
+      <th colspan="2" align="left"><code>bvnyamin:~$ cat tech-stack.yaml</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top"><code>├─ ✦ languages_frameworks:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=python,js,php,cpp&amp;perline=4" alt="Python, JavaScript, PHP y C++"><br>
+        <sub><code>Python · JavaScript · PHP · C++</code></sub>
+      </td>
+      <td width="50%" valign="top"><code>├─ ⚙ web_frameworks:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,flask,typescript&amp;perline=4" alt="React, Next.js, Flask y TypeScript"><br>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit"><br>
+        <sub><code>React · Next.js · Flask · Streamlit · TypeScript</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top"><code>├─ ▣ databases_data:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql&amp;perline=2" alt="PostgreSQL y MySQL"><br>
+        <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostGIS">
+        <img src="https://img.shields.io/badge/Chroma-7655D9?style=flat-square" alt="Chroma"><br>
+        <sub><code>PostgreSQL · MySQL · PostGIS · Chroma</code></sub>
+      </td>
+      <td width="50%" valign="top"><code>├─ ◉ geospatial_systems:</code><br><br>
+        <img src="https://img.shields.io/badge/QGIS_Server-589632?style=flat-square&amp;logo=qgis&amp;logoColor=white" alt="QGIS Server">
+        <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&amp;logo=leaflet&amp;logoColor=white" alt="Leaflet">
+        <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostGIS"><br>
+        <sub><code>QGIS Server · Leaflet · PostGIS</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top"><code>├─ ✧ ai_and_nl2sql:</code><br><br>
+        <img src="https://img.shields.io/badge/RAG-7655D9?style=flat-square" alt="Retrieval-Augmented Generation">
+        <img src="https://img.shields.io/badge/NL2SQL-4169E1?style=flat-square" alt="NL2SQL">
+        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="OpenAI API"><br>
+        <sub><code>RAG · NL2SQL · OpenAI API</code></sub>
+      </td>
+      <td width="50%" valign="top"><code>╰─ ⌁ environment_tools:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=docker,linux,git&amp;perline=3" alt="Docker, Linux y Git"><br>
+        <sub><code>Docker · Linux · Git</code></sub>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="2"><code>status: ready&nbsp;&nbsp;·&nbsp;&nbsp;focus: full stack · geospatial · AI</code></td>
+    </tr>
+  </tfoot>
 </table>
 
 </div>
