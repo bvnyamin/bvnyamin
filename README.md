@@ -2,9 +2,9 @@
 
 <a href="https://github.com/bvnyamin">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img src="assets/banner-dark.svg" width="960" alt="Nicolás Villagrán, desarrollador Full Stack en Santiago de Chile">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-console-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/profile-console-light.svg">
+    <img src="assets/profile-console-dark.svg" width="960" alt="Perfil de Nicolás Villagrán en una consola YAML con visualización geoespacial">
   </picture>
 </a>
 
@@ -12,8 +12,12 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/stack-static.svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=2400&amp;pause=700&amp;color=67E8D5&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=48&amp;lines=Full+Stack+%C2%B7+Geospatial+%C2%B7+Data;Python+%C2%B7+Flask+%C2%B7+PostgreSQL;React+%C2%B7+Next.js+%C2%B7+TypeScript;RAG+%C2%B7+SQL+%C2%B7+Artificial+Intelligence" alt="Texto animado con áreas y tecnologías de Nicolás Villagrán">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=2400&amp;pause=700&amp;color=67E8D5&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=48&amp;lines=Full+Stack+%C2%B7+Geospatial+%C2%B7+Data;AWS+%C2%B7+Django+%C2%B7+PostgreSQL;RAG+%C2%B7+NL2SQL+%C2%B7+Artificial+Intelligence" alt="Texto animado con áreas y tecnologías de Nicolás Villagrán">
 </picture>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=bvnyamin&amp;style=flat-square&amp;color=57e6d2&amp;label=profile+views" alt="Contador de visitas del perfil">
 
 <br>
 
@@ -43,22 +47,31 @@ Mi proyecto de título integró **RAG y NL2SQL** para responder preguntas en len
   </thead>
   <tbody>
     <tr>
-      <td width="50%" valign="top"><code>├─ ✦ languages_frameworks:</code><br><br>
+      <td width="50%" valign="top"><code>├─ ☁ cloud_infrastructure:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=aws" alt="AWS"><br>
+        <sub><code>AWS</code></sub>
+      </td>
+      <td width="50%" valign="top"><code>├─ ✦ languages:</code><br><br>
         <img src="https://skillicons.dev/icons?i=python,js,php,cpp&amp;perline=4" alt="Python, JavaScript, PHP y C++"><br>
         <sub><code>Python · JavaScript · PHP · C++</code></sub>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top"><code>├─ ⚙ web_frameworks:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,flask,django,typescript&amp;perline=5" alt="React, Next.js, Flask, Django y TypeScript"><br>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,typescript&amp;perline=3" alt="React, Next.js y TypeScript"><br>
+        <sub><code>React · Next.js · TypeScript</code></sub>
+      </td>
+      <td width="50%" valign="top"><code>├─ ◉ backend_frameworks:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=django,flask&amp;perline=2" alt="Django y Flask"><br>
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit"><br>
-        <sub><code>React · Next.js · Flask · Django · Streamlit · TypeScript</code></sub>
+        <sub><code>Django · Flask · Streamlit</code></sub>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top"><code>├─ ▣ databases_data:</code><br><br>
         <img src="https://skillicons.dev/icons?i=postgres,mysql&amp;perline=2" alt="PostgreSQL y MySQL"><br>
-        <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostGIS">
         <img src="https://img.shields.io/badge/Chroma-7655D9?style=flat-square" alt="Chroma"><br>
-        <sub><code>PostgreSQL · MySQL · PostGIS · Chroma</code></sub>
+        <sub><code>PostgreSQL · MySQL · Chroma</code></sub>
       </td>
       <td width="50%" valign="top"><code>├─ ◉ geospatial_systems:</code><br><br>
         <img src="https://img.shields.io/badge/QGIS_Server-589632?style=flat-square&amp;logo=qgis&amp;logoColor=white" alt="QGIS Server">
@@ -82,7 +95,7 @@ Mi proyecto de título integró **RAG y NL2SQL** para responder preguntas en len
   </tbody>
   <tfoot>
     <tr>
-      <td colspan="2"><code>status: ready&nbsp;&nbsp;·&nbsp;&nbsp;focus: full stack · geospatial · AI</code></td>
+      <td colspan="2"><code>status: ready&nbsp;&nbsp;·&nbsp;&nbsp;cloud: AWS&nbsp;&nbsp;·&nbsp;&nbsp;focus: full stack · geospatial · AI</code></td>
     </tr>
   </tfoot>
 </table>
