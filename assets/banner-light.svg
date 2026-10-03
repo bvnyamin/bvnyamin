@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" width="960" height="300" role="img" aria-labelledby="title desc">
+  <title id="title">Nicolás Villagrán — Desarrollador Full Stack</title>
+  <desc id="desc">Tarjeta clara estilo terminal city-pop con una cordillera inspirada en Santiago.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff8f1"/><stop offset=".56" stop-color="#f1eaff"/><stop offset="1" stop-color="#def8f5"/></linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#e84f9b"/><stop offset=".55" stop-color="#7655d9"/><stop offset="1" stop-color="#128b8b"/></linearGradient>
+    <radialGradient id="sun"><stop stop-color="#ffe39a"/><stop offset="1" stop-color="#f28aa9"/></radialGradient>
+  </defs>
+  <rect width="960" height="300" rx="22" fill="url(#bg)"/>
+  <rect x="8" y="8" width="944" height="284" rx="17" fill="none" stroke="url(#neon)" stroke-opacity=".7" stroke-width="2"/>
+  <g opacity=".32" stroke="#627995" stroke-width="1"><path d="M620 32H925M620 47H925M620 62H925M620 77H925M620 92H925M620 107H925"/><path d="M650 24V124M680 24V124M710 24V124M740 24V124M770 24V124M800 24V124M830 24V124M860 24V124M890 24V124M920 24V124"/></g>
+  <circle cx="782" cy="142" r="55" fill="url(#sun)"/>
+  <path d="M612 182 682 121 730 164 786 104 845 166 890 130 950 183V279H612Z" fill="#7276a8"/>
+  <path d="m664 137 18-16 15 14-11-4-7 8-6-6Zm99-20 23-13 20 22-17-9-10 10-8-9Zm87 61 40-48 43 52v77H638v-25Z" fill="#fff" opacity=".93"/>
+  <path d="M612 211c72-31 114 27 187-1s97-24 161 0v69H612Z" fill="#515a88"/>
+  <g fill="#fff0b7"><circle cx="689" cy="218" r="2.3"/><circle cx="710" cy="229" r="2"/><circle cx="744" cy="215" r="2.1"/><circle cx="814" cy="225" r="2.2"/><circle cx="846" cy="216" r="2"/><circle cx="883" cy="228" r="2.4"/><circle cx="920" cy="213" r="2"/></g>
+  <rect x="30" y="30" width="562" height="240" rx="13" fill="#fffdfb" fill-opacity=".94" stroke="#9280b5" stroke-opacity=".62"/>
+  <circle cx="53" cy="53" r="5" fill="#e84f9b"/><circle cx="71" cy="53" r="5" fill="#d99b36"/><circle cx="89" cy="53" r="5" fill="#128b8b"/>
+  <text x="111" y="58" fill="#525a75" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">bvnyamin:~$ ./profile --about</text>
+  <path d="M48 76H574" stroke="#d7d0e5"/>
+  <text x="54" y="119" fill="#128b8b" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" font-weight="700">$ whoami</text>
+  <text x="54" y="164" fill="#20223b" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Nicolás Villagrán</text>
+  <text x="55" y="197" fill="#c23f82" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16">Full Stack Developer</text>
+  <text x="55" y="229" fill="#474b68" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">geospatial systems  ·  data  ·  AI</text>
+  <text x="55" y="253" fill="#6c7187" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">Santiago, Chile  /  UTEM</text>
+</svg>

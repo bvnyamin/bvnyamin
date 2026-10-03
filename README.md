@@ -1,45 +1,107 @@
 <div align="center">
 
-# `$ whoami`
+<a href="https://github.com/bvnyamin">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img src="assets/banner-dark.svg" width="960" alt="Nicolás Villagrán, desarrollador Full Stack en Santiago de Chile">
+  </picture>
+</a>
 
-### Nicolás Villagrán
-**Desarrollador Full Stack · Ingeniería Informática, UTEM**
+<br>
 
-📍 Santiago, Chile · [LinkedIn](https://www.linkedin.com/in/nvillagran-ti/) · [Portafolio](https://mi-portfolio-indol-nu.vercel.app/)
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/stack-static.svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=2400&amp;pause=700&amp;color=67E8D5&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=48&amp;lines=Full+Stack+%C2%B7+Geospatial+%C2%B7+Data;Python+%C2%B7+Flask+%C2%B7+PostgreSQL;React+%C2%B7+Next.js+%C2%B7+TypeScript;RAG+%C2%B7+SQL+%C2%B7+Artificial+Intelligence" alt="Texto animado con áreas y tecnologías de Nicolás Villagrán">
+</picture>
+
+<br>
+
+<a href="https://github.com/bvnyamin"><img src="https://img.shields.io/badge/GitHub-bvnyamin-171923?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub bvnyamin"></a>
+<a href="https://www.linkedin.com/in/nvillagran-ti/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+<a href="https://mi-portfolio-indol-nu.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-Ver_proyectos-7C5CFC?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Portafolio"></a>
 
 </div>
 
-```text
-bvnyamin:~$ cat about.txt
-Construyo aplicaciones web y herramientas para resolver problemas reales.
-Me interesan los sistemas geoespaciales, los datos y la inteligencia artificial.
-```
+---
+
+## `$ whoami`
+
+Desarrollador Full Stack formado en **Ingeniería Informática en la UTEM**. Me gusta construir aplicaciones que conectan software, datos y mapas, y explorar cómo la inteligencia artificial puede responder preguntas con información verificable.
 
 ## `$ cat tech-stack.yaml`
 
-```yaml
-languages:       [Python, JavaScript, PHP, C++]
-frontend:        [React, Next.js, HTML, CSS]
-backend:         [Flask, Streamlit]
-data:            [PostgreSQL, PostGIS, MySQL, Chroma]
-maps:            [QGIS, Leaflet]
-tools:           [Docker, Linux, Git]
-```
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%"><strong>Lenguajes</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=python,js,php,cpp" alt="Python, JavaScript, PHP y C++">
+    </td>
+    <td align="center" width="50%"><strong>Frontend</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,html,css" alt="React, Next.js, TypeScript, HTML y CSS">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend y datos</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=flask,streamlit,postgres,mysql" alt="Flask, Streamlit, PostgreSQL y MySQL">
+    </td>
+    <td align="center"><strong>Herramientas y geoespacial</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=docker,linux,git" alt="Docker, Linux y Git"><br>
+      <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostGIS">
+      <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&amp;logo=qgis&amp;logoColor=white" alt="QGIS">
+      <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&amp;logo=leaflet&amp;logoColor=white" alt="Leaflet">
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## `$ ls projects/`
 
-| Proyecto | Descripción | Tecnologías |
-| --- | --- | --- |
-| [Tesis RAG para Formula 1](https://github.com/bvnyamin/tesis-rag-f1) | Prototipo que combina recuperación semántica y consultas SQL para responder preguntas sobre datos de Formula 1. | Python · Streamlit · PostgreSQL · Chroma |
-| [Mi portafolio](https://github.com/bvnyamin/mi-portfolio) | Sitio personal para presentar mi trabajo y proyectos. | TypeScript · React |
-| [Web de gimnasio Pilates](https://github.com/bvnyamin/pilates-aledra) | Aplicación web con gestión de usuarios y conexión a base de datos. | HTML · CSS · JavaScript · PHP |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/bvnyamin/tesis-rag-f1">Tesis · RAG para Formula 1</a></h3>
+      <p>Prototipo de preguntas en lenguaje natural que combina recuperación semántica y consultas SQL sobre datos estructurados.</p>
+      <sub>Python · Streamlit · PostgreSQL · Chroma · Docker</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/bvnyamin/mi-portfolio">Mi portafolio</a></h3>
+      <p>Sitio personal para presentar proyectos y experiencia.</p>
+      <sub>TypeScript · React</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/bvnyamin/pilates-aledra">Web de gimnasio Pilates</a></h3>
+      <p>Aplicación web con registro, inicio de sesión y recuperación de contraseña.</p>
+      <sub>HTML · CSS · JavaScript · PHP</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Gestión georreferenciada de incidencias</h3>
+      <p>Aplicación para administrar casos y visualizar información geográfica en mapas interactivos.</p>
+      <sub>Python · Flask · PostgreSQL/PostGIS · Leaflet</sub>
+    </td>
+  </tr>
+</table>
 
-## `$ connect --socials`
+## `$ git-language-signals`
 
-[GitHub](https://github.com/bvnyamin) · [LinkedIn](https://www.linkedin.com/in/nvillagran-ti/)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/language-radar-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/language-radar-light.svg">
+    <img src="assets/language-radar-dark.svg" width="560" alt="Gráfico de lenguajes detectados en los repositorios públicos de bvnyamin">
+  </picture>
+</div>
+
+<div align="center"><sub>Distribución relativa de código por lenguaje en repositorios públicos; no representa niveles de dominio. Se puede regenerar con <code>python scripts/generate_language_radar.py</code>.</sub></div>
+
+---
 
 <div align="center">
 
-_Construido en Santiago, Chile._
+<sub>Hecho en Santiago, Chile · <a href="https://github.com/bvnyamin">@bvnyamin</a></sub>
 
 </div>
